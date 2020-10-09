@@ -8,6 +8,4 @@ header_menu: true
 
 ##### Professionel Experience
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+I recently earned my PhD in biology with the <a href="http://www.theridiidae.com">Agnarsson Lab</a> at the University of Vermont. My dissertation work explored the interplay between long-distance dispersal and vicariance in shaping the evolutionary history and biogeography of spiders. My research is part of an ongoing collaborative project, Caribbean Island Biogeography <a href="http://www.islandbiogeography.org">(CARBIO)</a>, which uses the remarkably diverse study system of spiders to better understand how the island archapelligo has become a biodiversity hotspot. Currently, I am the Inbertebrate Collections Manager for the Zadock Thompson Zoological Collections at the <a href="https://www.uvm.edu/vtnaturalhistory">University of Vermont Natural History Museum</a>. 
